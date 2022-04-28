@@ -17,7 +17,7 @@ html {
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background-color: #ebffc7;
+    background-color: #fffaea;
     border-radius: 5px;
 }
 
@@ -76,14 +76,14 @@ input {
     border-radius: 5px;
     text-transform: uppercase;
     color: #fff;
-    background-color: #74b9ff;
+    background-color: #4e96df;
     margin-top: 40px;
     cursor: pointer;
     box-shadow: 0 1rem 1rem -0.7rem rgba(0, 0, 0, 0.393);
 }
 
 #submit:hover {
-    background-color: rgb(104, 104, 207);
+    background-color: rgb(87, 87, 202);
     box-shadow: 0 1rem 1rem -0.7rem black;
 }
 
@@ -105,11 +105,11 @@ input {
 
 #showScore .btn {
     margin-top: 16px;
-    background-color: rgb(145, 235, 9);
+    background-color: rgb(153, 218, 56);
 }
 
 #showScore .btn:hover {
-    background-color: rgb(97, 161, 1);
+    background-color: rgb(115, 183, 13);
     box-shadow: 0 1rem 1rem -0.4rem black;
 }
 
