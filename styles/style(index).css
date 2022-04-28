@@ -17,7 +17,7 @@ html {
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background-color: #ebffc7;
+    background-color: #fffaea;
     border-radius: 5px;
 }
 
@@ -47,6 +47,7 @@ html {
 
 .infoindex{
     box-shadow: 0 0.5rem 0.5rem -0.7rem black;
+    background-color: #fff0f0;
 }
 
 .question{
