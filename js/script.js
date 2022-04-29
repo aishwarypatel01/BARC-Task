@@ -10,7 +10,7 @@ const quiz = [
     },
 
     {
-        question: "Q2: What is an E-main address of BARC?",
+        question: "Q2: What is an E-mail address of BARC?",
         a: "barc@kgpian.iitkgp.ac.in",
         b: "barc@iitkgp.com",
         c: "barc@iitkgp.ac.in",
